@@ -2,8 +2,9 @@
 
 :wave: I'm Sarthak Dawar !
 
-:school: Masters in Applied Data Analytics from Boston University, USA
-:school: Bachelor degree in Electronics and Communication from UPTU, India
+:man_student: Masters in Applied Data Analytics from Boston University, USA
+
+:man_student: Bachelor degree in Electronics and Communication from UPTU, India
 
 :office: Highly skilled programmer with 10+ years of experience in creating dynamic web applications. In-depth experience in all facets of Software Development Life Cycle, from analysis and design to implementation and maintenance achieved through agile methodologies.
 
