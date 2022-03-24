@@ -10,4 +10,4 @@
 
 :eyes: I'm fasicnated by everything data. Actively looking for Software Development / Data Science / Machine Learning / Hybrid roles.
 
-:handshake: Connect with me! &ensp; <a href="https://www.linkedin.com/in/sarthakdawar/" target="_blank"><img src="/images/LI-In-Bug.png" alt="Sarthak D. | LinkedIn" width="22px"/></a>
+:handshake: Connect with me! &ensp; <a href="https://www.linkedin.com/in/sarthakdawar/"><img src="/images/LI-In-Bug.png" alt="Sarthak D. | LinkedIn" width="22px"/></a>
